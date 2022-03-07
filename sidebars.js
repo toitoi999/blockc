@@ -40,6 +40,20 @@ const sidebars = {
         'konsepter/smarte-kontrakter'
       ],
     },
+    {
+      type: 'category',
+      label: 'hvordan',
+      link: {
+        type: 'generated-index',
+        title: 'Hvordan kryptoe',
+        description:
+          "Lær mer om alle de forskjellige konseptene innenfor krypto",
+        keywords: ['hvordan'],
+      },
+      items: [
+        'hvordan/lommebok'
+      ],
+    },
   ],
 }
 

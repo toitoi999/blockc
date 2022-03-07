@@ -20,18 +20,18 @@ function HomepageHeader() {
               'button button--outline button--secondary button--lg',
               styles.getStarted,
             )}
-            to={useBaseUrl('/docs/intro')}>
+            to={useBaseUrl('/docs/category/hvordan')}>
             Hvordan?
           </Link>
           <Link
-            to="/docs/category/ordliste"
+            to="/docs/ordliste"
             className={clsx(
               'button button--outline button--secondary button--lg',
               styles.getStarted,
             )}
           >Ordliste</Link>
           <Link
-            to="/docs/intro"
+            to="/blog"
             className={clsx(
               'button button--outline button--secondary button--lg',
               styles.getStarted,
@@ -47,7 +47,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Hallo fra ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

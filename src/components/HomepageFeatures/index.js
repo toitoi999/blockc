@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Krypto',
+    title: 'Crypto vs krypto',
     Svg: require('@site/static/img/blocks.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        For deg som har lurt på hva de forskjellige ordene du hører og leser om betyr..
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Web3?',
     Svg: require('@site/static/img/maker_launch.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Det du trenger for å bevege deg rundt i kryptouniverset og bli en del av Web3.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Det som rører seg',
     Svg: require('@site/static/img/ether.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Les om hva som rører seg i kryptouniverset.
       </>
     ),
   },
