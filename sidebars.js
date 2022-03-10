@@ -30,19 +30,35 @@ const sidebars = {
         'konsepter/amm',
         'konsepter/arbitrasje',
         'konsepter/bitcoin',
-        'konsepter/blokkjede',
+        'konsepter/bro',
+        'konsepter/coin-mynt',
+        'konsepter/cryptopunks',
+        'konsepter/dao',
+        'konsepter/emissions',
+        'konsepter/epoch',
+        'konsepter/evm',
+        'konsepter/fork',
         'konsepter/frontrunning',
         'konsepter/impermanent-loss',
         'konsepter/liquiditypools',
+        'konsepter/lommebok',
         'konsepter/mev',
+        'konsepter/nft',
+        'konsepter/pos',
         'konsepter/sandwich-angrep',
         'konsepter/slippage',
-        'konsepter/smarte-kontrakter'
+        'konsepter/smarte-kontrakter',
+        'konsepter/thedao',
+        'konsepter/token',
+        'konsepter/veDAO',
+        'konsepter/veTokens',
+        'konsepter/yieldfarming',
+        'konsepter/ytelse'
       ],
     },
     {
       type: 'category',
-      label: 'hvordan',
+      label: 'Hvordan kryptoe',
       link: {
         type: 'generated-index',
         title: 'Hvordan kryptoe',
@@ -51,7 +67,8 @@ const sidebars = {
         keywords: ['hvordan'],
       },
       items: [
-        'hvordan/lommebok'
+        'hvordan/lommebok',
+        'hvordan/handelsplattform'
       ],
     },
   ],

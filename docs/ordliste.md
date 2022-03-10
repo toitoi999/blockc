@@ -26,4 +26,9 @@ Alle de grunnleggende begrepene kommer her
 | Nonce                       |              | Tallrekke som er svar på et matematisk problem |
 | Liquidity pool              | LP           | Likviditetspool for market makers |
 | Sandwich attack             |              | Måte å snike i køen og stjele arbitrasjmulighet på |
-| Sandwich attack             |              | Måte å snike stjele arbitrasjmulighet på |
+| Decentralized finance       | DeFi          | Desentralisert finans  |
+| Traditional finance         | TradFi       | Vanlig / Tradisjonell finans |
+| Rug pull                    |              | Når man drar beina under et prosjekt |
+| Rug pull                    |              | Når man drar beina under et prosjekt |
+| Rug pull                    |              | Når man drar beina under et prosjekt |
+| Rug pull                    |              | Når man drar beina under et prosjekt |
