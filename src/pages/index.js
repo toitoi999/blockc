@@ -20,7 +20,7 @@ function HomepageHeader() {
               'button button--outline button--secondary button--lg',
               styles.getStarted,
             )}
-            to={useBaseUrl('/docs/category/hvordan')}>
+            to={useBaseUrl('/docs/category/hvordan-kryptoe')}>
             Hvordan?
           </Link>
           <Link
