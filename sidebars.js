@@ -67,8 +67,10 @@ const sidebars = {
         keywords: ['hvordan'],
       },
       items: [
+        'hvordan/setteigang',
         'hvordan/lommebok',
-        'hvordan/handelsplattform'
+        'hvordan/handelsplattform',
+        'hvordan/sendetokens'
       ],
     },
   ],
