@@ -29,6 +29,9 @@ Alle de grunnleggende begrepene kommer her
 | Decentralized finance       | DeFi          | Desentralisert finans  |
 | Traditional finance         | TradFi       | Vanlig / Tradisjonell finans |
 | Rug pull                    |              | Når man drar beina under et prosjekt |
-| Rug pull                    |              | Når man drar beina under et prosjekt |
-| Rug pull                    |              | Når man drar beina under et prosjekt |
-| Rug pull                    |              | Når man drar beina under et prosjekt |
+| Annual Percentage Rate      | APR          | Årlig prosentvis avkastning - uten renters rente |
+| Renters rente               |              | Renter på renter |
+| Beacon Chain                |              | PoS nettverket til Ethereum |
+| Non-custodial               |              | Selskapet/Prosjektet/Utviklere har ikke tilgang til dine tokens |
+| Insentiv pool               |              | En pool hvor de gir ut ekstra tokens i tillegg til "renten" |
+| Gauge                      |              | Måleinstrument for å se hvor mye likviditet som blir bidratt |
