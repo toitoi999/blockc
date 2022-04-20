@@ -28,4 +28,4 @@ Du kan legge til forskjellige nettverk/protokoller i lommeboken din. Det kan du 
 ![Oversikt over metamask](/img/metamask.png "Metamask")
 
 
-Du har satt opp lommeboken din og begynner å føle deg klar for å sende tokens rundt om i universet. Da er det greit å gå til en [børs for å begynne handelen](/docs/hvordan/handelsplattform).
+Du har satt opp lommeboken din og begynner å føle deg klar for å sende tokens rundt om i universet. Da er det greit å gå til en [børs for å begynne handelen](/docs/komigang/handelsplattform).

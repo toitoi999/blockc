@@ -22,7 +22,7 @@ Du har ikke blitt veldig mye klokere, så det er på tide å lære litt om hva d
 
 Du har kanskje spurt deg selv hva en blokkjede er, hvordan Bitcoin fungerer, hvordan kan et digital bilde av en ape være verdt 80M NOK eller er ikke alt dette bare tull? Svarene på dette får du her og hvis de ikke er tilfredsstillende er det bare å ta kontakt. 
 
-Det første som kan være fint å gjøre er å sette opp en [lommebok](/docs/hvordan/lommebok)
+Det første som kan være fint å gjøre er å sette opp en [lommebok](/docs/komigang/lommebok)
 
 
 

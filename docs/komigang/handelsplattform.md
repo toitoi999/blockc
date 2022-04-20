@@ -17,4 +17,4 @@ Når du handler på en børs er det som regel som å handle på en hvilken som h
 
 Det som er viktig å tenke på før du begynner å handle er hvor mye du kan tape og hvilken tidshorisont du har. Det er også stor risiko involvert med å låne penger for å handle - det går som regel ikke veldig bra til tross for de historiene man leser i avisen. 
 
-Du har opprettet en konto og vil [sende tokens fra en konto til en annen](/docs/hvordan/sendetokens).
+Du har opprettet en konto og vil [sende tokens fra en konto til en annen](/docs/komigang/sendetokens).

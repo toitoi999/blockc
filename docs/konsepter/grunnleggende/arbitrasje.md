@@ -1,5 +1,5 @@
 ---
-slug: arbitrasj
+slug: arbitrasje
 title: Arbitrasje
 authors: [toitoi]
 tags: [greetings]

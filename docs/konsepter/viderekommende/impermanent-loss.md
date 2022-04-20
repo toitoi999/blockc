@@ -5,9 +5,9 @@ authors: [toitoi]
 tags: [greetings]
 ---
 
-Impermanent loss er et konsept som er viktig å gjøre seg bekjent med hvis du ønsker å bidra med likviditet gjennom en likviditetspool. Når du setter inn to tokens i en LP, som et LP par, gjør du det for å muliggjøre veksling fra en token til en annen på en [desentralisert handelsplattform](/konsepter/grunnleggende/dex). 
+Impermanent loss er et konsept som er viktig å gjøre seg bekjent med hvis du ønsker å bidra med likviditet gjennom en likviditetspool. Når du setter inn to tokens i en LP, som et LP par, gjør du det for å muliggjøre veksling fra en token til en annen på en [desentralisert handelsplattform](/konsepter/grunnleggende/dex.md). 
 
-Ved veksling av en token til en annen får LPen mer av den token det veksles fra og mindre av den token det veksles til. Hvis det veksles utelukkende fra en token til en annen vil likviditetspoolen til slutt kun bestå av den ene token (hvis det ikke blir satt inn mer likviditet). Hadde noen vekslet så mye at store deler av en token fra en pool hadde blitt tatt ut hadde det slått veldig ut på [slippage](/konsepter/grunnleggende/slippage).
+Ved veksling av en token til en annen får LPen mer av den token det veksles fra og mindre av den token det veksles til. Hvis det veksles utelukkende fra en token til en annen vil likviditetspoolen til slutt kun bestå av den ene token (hvis det ikke blir satt inn mer likviditet). Hadde noen vekslet så mye at store deler av en token fra en pool hadde blitt tatt ut hadde det slått veldig ut på [slippage](/konsepter/grunnleggende/slippage.md).
 
 ### Eksempel
 
