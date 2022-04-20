@@ -53,7 +53,7 @@ const config = {
       },
 
       announcementBar: {
-        id: 'announcementBar-2',
+        id: 'announcementbar',
         backgroundColor: '#dfe9fb',
         textColor: "#000",
         isCloseable: true,

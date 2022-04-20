@@ -20,7 +20,7 @@ function HomepageHeader() {
               'button button--secondary button--lg',
               styles.buttons,
             )}
-            to={useBaseUrl('/docs/category/hvordan-kryptoe')}>
+            to={useBaseUrl('/docs/category/komigang/setteigang')}>
             Kom i gang!
           </Link>
           <Link
