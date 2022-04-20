@@ -10,31 +10,31 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--dark', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className={clsx(
-              'button button--outline button--secondary button--lg',
-              styles.getStarted,
+              'button button--secondary button--lg',
+              styles.buttons,
             )}
             to={useBaseUrl('/docs/category/hvordan-kryptoe')}>
-            Hvordan?
+            Kom i gang!
           </Link>
           <Link
-            to="/docs/ordliste"
+            to="/docs/konsepter/introduksjon"
             className={clsx(
-              'button button--outline button--secondary button--lg',
-              styles.getStarted,
+              'button button--secondary button--lg',
+              styles.buttons,
             )}
-          >Ordliste</Link>
+          >Konsepter</Link>
           <Link
             to="/blog"
             className={clsx(
-              'button button--outline button--secondary button--lg',
-              styles.getStarted,
+              'button button--secondary button--lg',
+              styles.buttons,
             )}
           >Hva skjer?</Link>
         </div>

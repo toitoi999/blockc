@@ -5,9 +5,11 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
+
+
 const config = {
   title: 'BlockC',
-  tagline: 'Alt du trenger å vite om krypto',
+  tagline: 'stedet du kan begynne og lære om krypto',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -49,10 +51,15 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+
       announcementBar: {
-        id: 'announcementBar-2', // Increment on change
-        content: 'Hvis du liker siden, så registrer deg for dagens ord!',
+        id: 'announcementBar-2',
+        backgroundColor: '#dfe9fb',
+        textColor: "#000",
+        isCloseable: true,
+        content: 'Hvis du liker siden følg oss på <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/toitoi_88">Twitter</>',
       },
+
       navbar: {
         title: 'BlockC',
         logo: {
@@ -62,15 +69,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'hvordan/lommebok',
+            docId: 'komigang/setteigang',
             position: 'left',
-            label: 'Hvordan kryptoe?',
+            label: 'Kom i gang!',
           },
           { to: '/blog', label: 'Hva skjer?', position: 'left' },
-          { to: '/docs/category/konsepter', label: 'Konsepter', position: 'left' },
-          { to: '/docs/ordliste', label: 'Ordliste', position: 'left' },
+          { to: '/docs/konsepter/introduksjon', label: 'Konsepter', position: 'left' },
+          { to: '/docs/omsiden', label: 'Om siden', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/toitoi999/blockc',
             label: 'GitHub',
             position: 'right',
           },
