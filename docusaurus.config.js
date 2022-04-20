@@ -57,7 +57,7 @@ const config = {
         backgroundColor: '#dfe9fb',
         textColor: "#000",
         isCloseable: true,
-        content: 'Hvis du liker siden følg oss på <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/toitoi_88">Twitter</>',
+        content: 'Hvis du liker siden følg oss på',
       },
 
       navbar: {

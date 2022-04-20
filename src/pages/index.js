@@ -20,8 +20,8 @@ function HomepageHeader() {
               'button button--secondary button--lg',
               styles.buttons,
             )}
-            to={useBaseUrl('/docs/category/komigang/setteigang')}>
-            Kom i gang!
+            to='/docs/komigang/setteigang'
+          >Kom i gang!
           </Link>
           <Link
             to="/docs/konsepter/introduksjon"
