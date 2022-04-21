@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
   title: 'BlockC',
-  tagline: 'stedet du kan begynne og lære om krypto',
+  tagline: 'stedet du kan begynne å lære om krypto',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

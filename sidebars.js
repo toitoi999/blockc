@@ -91,6 +91,7 @@ const sidebars = {
             'konsepter/viderekommende/mev',
             'konsepter/viderekommende/omsettligkvittering',
             'konsepter/viderekommende/pyt',
+            'konsepter/viderekommende/rollups',
             'konsepter/viderekommende/sandwich-angrep',
             'konsepter/viderekommende/sandwich-transaksjon',
             'konsepter/viderekommende/ssov',
@@ -136,6 +137,7 @@ const sidebars = {
         'komigang/lommebok',
         'komigang/handelsplattform',
         'komigang/sendetokens'
+
       ],
     },
   ],

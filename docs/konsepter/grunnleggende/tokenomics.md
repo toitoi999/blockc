@@ -35,5 +35,7 @@ Eventuelt sånn:
 
 ![Redacted Cartel](/img/redacted.png "Redacted Cartel tokenomics")
 
+Det finnes heldigvis tjenester man kan bruke for å sjekke hvordan tokenomics er for et prosjekt. Messari eller Nansen er tjenester hvor man kan undersøke dette. 
+
 Det er et veldig viktig punkt å forstå hvis du ønsker å putte penger i et prosjekt. Hvis du får 1000 % for å stake en token må du spørre deg selv hvor disse tokens kommer fra og hvordan det vil påvirke tilbudet. Prosjektet kan ha en kort periode hvor det utsteder mange tokens for så å justere det ned. Andre prosjekter utsteder mange tokens over tid som kan føre til at du blir utvannet. Det er også lurt å sette seg inn i hvor lenge investorer må låse tokens. De sitter ofte på store mengder og kan dumpe disse på markedet etter kort tid hvis de ikke har en lengre lockupperiode. Da blir du som kjøper et offer for det som kalles exitlikviditet, du kjøper en utgangsposisjon fra en innsideperson og det er stor sannsynlighet for at prisen vil falle. 
 
