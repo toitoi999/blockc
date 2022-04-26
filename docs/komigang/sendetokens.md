@@ -39,7 +39,9 @@ Sender du til feil adresse får du ikke tokens/mynter tilbake med mindre den adr
 
 Når du skal sende tokens fra et nettverk til et annet må du bruke en [bro](/konsepter/grunnleggende/bro.md). Det beste er å gå rett fra en børs hvis du kan det fordi de som regel kan benytte forskjellige nettverk. Hvis du sender en token som hører hjemme på et nettverk til et annet nettverk uten å gå via en bro vil du ikke kunne bruke denne der du sender den. Det er litt som å sende norske kroner til Italia for å prøve å kjøpe noe på butikken der. Du må passe på at den blokkjeden du ønsker å sende til har en bro. Det er ikke alle de mindre kjedene som har det og du må da gå via av børs. 
 
-De største broene er [Multichain](https://app.multichain.org/#/router) og 
+Den største broen som er multi-chain er [Multichain](https://app.multichain.org/#/router) mens den første omnichainbroen er [LayerZero/Stargate](https://stargate.finance/)
+
+### Utfordringer
 
 Det er to utfordringer med å gå fra et nettverk til et annet
 
@@ -47,4 +49,7 @@ Det er to utfordringer med å gå fra et nettverk til et annet
 2.	Alle tokens tilhører et spesifikt nettverk
 
 Du må derfor innom en bro for å overføre tokens fra et nettverk til et annet. Ved å bruke broen så veksler du en token i en annen. Hvis du ikke bruker en bro men veksler en token i en annen vil du gjennomføre transaksjonen på det samme nettverket. Du er avhengig av at du får verifisert transaksjonen på det nettverket du ønsker å migrere til og dermed avhengig av å bruke broen. 
+
+### Tilbake over broen
+
 Når du går fra et nettverk til et annet tar det som regel veldig kort tid (sekunder – minutter), mens hvis du ønsker å gå tilbake til det originale nettverket kan det ta dager. Så pass på at du ikke trenger å veksle tilbake med det samme. 

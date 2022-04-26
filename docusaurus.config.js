@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 
 const config = {
-  title: 'BlockC',
+  title: 'BlokkLand',
   tagline: 'stedet du kan begynne å lære om krypto',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://blockland.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicono.ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'toitoi999', // Usually your GitHub org/user name.
-  projectName: 'blockc', // Usually your repo name.
+  projectName: 'BL', // Usually your repo name.
 
   presets: [
     [
@@ -61,10 +61,10 @@ const config = {
       },
 
       navbar: {
-        title: 'BlockC',
+        title: 'BlokkLand',
         logo: {
           alt: 'Hjemmesidelogo',
-          src: 'img/logo2.png',
+          src: 'img/logo.png',
         },
         items: [
           {

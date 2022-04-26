@@ -94,6 +94,7 @@ const sidebars = {
             'konsepter/viderekommende/rollups',
             'konsepter/viderekommende/sandwich-angrep',
             'konsepter/viderekommende/sandwich-transaksjon',
+            'konsepter/viderekommende/sharding',
             'konsepter/viderekommende/ssov',
             'konsepter/viderekommende/syntetisktoken',
             'konsepter/viderekommende/uncle-bandit',
